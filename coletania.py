@@ -30,4 +30,3 @@ while True:
             print(f'O jogo {jogo_existente} não foi adiconado a lista ainda!')
 
 
-print('Obrigado por utilizar a lista!')
